@@ -1,0 +1,4 @@
+phpns
+=====
+
+PHP Namespace Lifesaver
